@@ -1,4 +1,4 @@
-# Neural Network From Scratch — and in PyTorch
+# Neural Network From Scratch and in PyTorch
 
 A small neural network implemented two ways:
 
